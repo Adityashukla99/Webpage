@@ -1,1 +1,1 @@
-# Webpage
+A full-stack web application for college event management. Students can register for events like Tech Fest, Hackathon, and Workshops. Admin can view, search, filter, export, and delete registrations. Built with Node.js, Express, MySQL, HTML/CSS/JS.
